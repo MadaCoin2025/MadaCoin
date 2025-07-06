@@ -1,0 +1,2 @@
+# MadaCoin
+MadaCoin
